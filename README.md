@@ -1,2 +1,2 @@
-# I.T.-Coursework
-Samples of my Master's degree coursework
+# Master's Degree I.T.-Coursework
+This is a Sample of my Master's degree coursework
